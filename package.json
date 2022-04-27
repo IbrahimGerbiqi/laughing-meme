@@ -1,0 +1,24 @@
+{
+  "name": "laughing-meme",
+  "version": "1.0.0",
+  "description": "Repo created for Testing purposes only for the full-stack development training course.",
+  "main": "index.js",
+  "dependencies": {
+    "tslib": "^2.4.0",
+    "upper-case": "^2.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IbrahimGerbiqi/laughing-meme.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IbrahimGerbiqi/laughing-meme/issues"
+  },
+  "homepage": "https://github.com/IbrahimGerbiqi/laughing-meme#readme"
+}
